@@ -1,0 +1,8 @@
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\AuthenticationCloud.deps.json
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\AuthenticationCloud.pdb
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\Unity.Services.CloudCode.Apis.dll
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\Unity.Services.CloudCode.Core.dll
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Glen Ruddick\AppData\Local\Temp\AuthenticationCloud\module-compilation\Newtonsoft.Json.dll

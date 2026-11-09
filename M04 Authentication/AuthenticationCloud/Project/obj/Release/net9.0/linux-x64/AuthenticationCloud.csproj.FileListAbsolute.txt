@@ -1,0 +1,13 @@
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\linux-x64\AuthenticationCloud.deps.json
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\linux-x64\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\linux-x64\AuthenticationCloud.pdb
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.csproj.AssemblyReference.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.AssemblyInfoInputs.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.AssemblyInfo.cs
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.csproj.CoreCompileInputs.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.sourcelink.json
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\refint\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\AuthenticationCloud.pdb
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\linux-x64\ref\AuthenticationCloud.dll

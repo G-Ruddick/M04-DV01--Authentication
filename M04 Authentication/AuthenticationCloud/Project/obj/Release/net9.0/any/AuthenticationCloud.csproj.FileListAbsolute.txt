@@ -1,0 +1,13 @@
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\any\AuthenticationCloud.deps.json
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\any\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\bin\Release\net9.0\any\AuthenticationCloud.pdb
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.csproj.AssemblyReference.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.AssemblyInfoInputs.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.AssemblyInfo.cs
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.csproj.CoreCompileInputs.cache
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.sourcelink.json
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\refint\AuthenticationCloud.dll
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\AuthenticationCloud.pdb
+C:\Users\Glen Ruddick\Desktop\M04-DV01--Authentication\M04 Authentication\AuthenticationCloud\Project\obj\Release\net9.0\any\ref\AuthenticationCloud.dll

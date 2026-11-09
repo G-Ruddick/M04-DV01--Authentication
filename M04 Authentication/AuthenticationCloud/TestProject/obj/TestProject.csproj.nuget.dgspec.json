@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\TestProject\\TestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\AuthenticationCloud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\AuthenticationCloud.csproj",
+        "projectName": "AuthenticationCloud",
+        "projectPath": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\AuthenticationCloud.csproj",
+        "packagesPath": "C:\\Users\\Glen Ruddick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Glen Ruddick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Com.Unity.Services.CloudCode.Apis": {
+              "target": "Package",
+              "version": "[0.0.26, )"
+            },
+            "Com.Unity.Services.CloudCode.Core": {
+              "target": "Package",
+              "version": "[0.0.5, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\TestProject\\TestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\TestProject\\TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\Glen Ruddick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\TestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Glen Ruddick\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\AuthenticationCloud.csproj": {
+                "projectPath": "C:\\Users\\Glen Ruddick\\Desktop\\M04-DV01--Authentication\\M04 Authentication\\AuthenticationCloud\\Project\\AuthenticationCloud.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.14, 9.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
